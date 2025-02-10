@@ -15,3 +15,12 @@
     -searchBar
     -movie suggestions
     
+
+
+
+
+------form validation--------------
+
+//look at formik
+
+useRef Hooks : 

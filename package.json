@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "@babel/plugin-transform-private-property-in-object": "^7.25.9",
+    "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
     "cra-template": "1.2.0",
+    "firebase": "^11.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1",
